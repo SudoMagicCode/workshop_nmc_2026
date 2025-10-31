@@ -1,1 +1,1 @@
-# workshop_nmc_2026
+# TouchDesigner New Media Caucus | 2026
