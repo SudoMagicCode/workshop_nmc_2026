@@ -1,1 +1,2 @@
 code/tox/MediaPipe* filter=lfs diff=lfs merge=lfs -text
+/code/tox/MediaPipe/MediaPipe.tox filter=lfs diff=lfs merge=lfs -text
