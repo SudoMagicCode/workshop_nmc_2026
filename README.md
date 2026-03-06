@@ -1,4 +1,4 @@
-# TouchDesigner New Media Cacus 2026
+# TouchDesigner New Media Caucus 2026
 
 **Instructors:**
 
