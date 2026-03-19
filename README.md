@@ -67,7 +67,7 @@ This workshop will largely focus on techniques for live performance, data proces
 | ------- | :---------------------------------------------- |
 | 1:00 PM | TouchDesigner Crash Course: Environment, Op Families, Making Connections |
 | 1:30 PM | Introducing POPs: Point Operators |
-| 2:00 PM | Working Point Clouds |
+| 2:00 PM | Working with Point Clouds |
 | 2:30 PM | Gaussian Splats & Digital Reconstructions |
 | 3:00 PM | Point Cloud Transformations & Experimentation |
 | 4:00 PM | Realtime Point Manipulations with Media Pipe |
